@@ -13,7 +13,7 @@ Tanto las tareas de limpieza, transformación e ingeniería de características 
 
 ## Experimentación
 A continuación se detallan los algoritmos empleados. El ajuste de hiperparámetros se ha realizado mediante GridSearchCV, aplicando también Cross-Validation.
-El código se encuentra en el directorio 'models'. 
+El código se encuentra en el directorio 'model'. 
 
 ### Algoritmos de detección de anomalías
 Se tratan de algoritmos de aprendizaje no supervisado que pretenden aislar los valores atípicos de aquellos que se consideren normales tras el entrenamiento. Son los siguientes:
